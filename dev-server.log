@@ -1,0 +1,43 @@
+npm warn Unknown user config "always-auth". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown user config "email". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+
+> jitesh-engineering-works@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.3s
+ ○ Compiling / ...
+ ✓ Compiled / in 5.7s (573 modules)
+ GET / 200 in 6158ms
+ GET / 200 in 103ms
+ ✓ Compiled /icon.svg in 317ms (334 modules)
+ GET /icon.svg?067edd62f93a3230 200 in 408ms
+ ✓ Compiled in 518ms (605 modules)
+ GET / 200 in 152ms
+ ✓ Compiled /about in 221ms (596 modules)
+ GET /about 200 in 346ms
+ ✓ Compiled /services in 280ms (600 modules)
+ GET /services 200 in 373ms
+ ✓ Compiled /projects in 297ms (602 modules)
+ GET /projects 200 in 383ms
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 1090ms (608 modules)
+ GET /contact 200 in 1227ms
+ ✓ Compiled /services/[slug] in 365ms (615 modules)
+ GET /services/cnc-machining 200 in 1302ms
+ GET /services/lathe-machining 200 in 81ms
+ GET /services/sheet-metal-cutting 200 in 62ms
+ GET /services/metal-fabrication 200 in 64ms
+ GET /services/custom-parts 200 in 53ms
+ ○ Compiling /sitemap.xml ...
+ ✓ Compiled /sitemap.xml in 787ms (382 modules)
+ GET / 200 in 247ms
+ GET /sitemap.xml 200 in 1793ms
+ ✓ Compiled /robots.txt in 200ms (385 modules)
+ GET /icon.svg?067edd62f93a3230 200 in 345ms
+ GET /robots.txt 200 in 391ms
+ GET /icon.svg 200 in 17ms
